@@ -1,7 +1,7 @@
 import React from 'react'
 
 interface PropsType{
-  active:any,
+  active:boolean,
   selectTab:any,
   children:any
 
