@@ -23,7 +23,7 @@ export default function Home() {
     AOS.refresh();
   }, [])
   return (
-     <main className="flex min-h-screen flex-col bg-mygray container mx-auto px-12 py-4">
+     <main className="flex min-h-screen w-full bg-mygray">
       <Navbar/>
       <div className="container mt-24 mx-auto px-12 py-4">
       <HeroSection/>
