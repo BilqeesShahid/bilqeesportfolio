@@ -33,7 +33,7 @@ const EmailSection = () => {
   };
 
    return (
-    <section id="contact"className='grid md:grid-cols-2 my-12 py-24 px-8 md:px-24 gap-8 relative'>
+    <section id="contact"className='grid md:grid-cols-2 my-12 py-24 px-8 md:px-24 gap-8 relative container pt-32'>
        
       {/* First Column (Text & Social Links) */}
       <div className='z-10'>
