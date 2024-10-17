@@ -62,8 +62,8 @@ const ProjectsSection = () => {
     project.tag.includes(tag)
   )
   return (
-    <>
-    <div id="projects"data-aos="zoom-in-up" className='text-center text-2xl lg:text-5xl font-bold 
+    <div id="projects" className='container pt-32'>
+    <div data-aos="zoom-in-up" className='text-center text-2xl lg:text-5xl font-bold 
     text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600  mt-4 mb-6'>My Projects</div>
     <div className='text-white flex flex-row items-center justify-center gap-2  py-6'>
   <ProjectTag onClick={handleTagChange} name="All" isSelected={tag === "All"}/> 
@@ -79,7 +79,7 @@ const ProjectsSection = () => {
     previewUrl={project.previewUrl}
   />)}
     </div>
-    </>
+    </div>
   )
 }
 
