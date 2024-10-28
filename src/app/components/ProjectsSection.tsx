@@ -20,8 +20,8 @@ const projectData = [
     description:"Project 2 using HTML,CSS,Typescript",
     image:"/resume1.png",
     tag:["All","Web"],
-    gitUrl: "https://github.com/BilqeesShahid/Q2Milestone5/tree/main/milestone5",
-    previewUrl: "https://q2milestone5sharable.vercel.app",
+    gitUrl: "https://github.com/BilqeesShahid/bjbuildresume",
+    previewUrl: ""bjbuildresume.vercel.app",
   },
   {
     id:3,
