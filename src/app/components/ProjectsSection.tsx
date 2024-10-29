@@ -21,7 +21,7 @@ const projectData = [
     image:"/resume1.png",
     tag:["All","Web"],
     gitUrl: "https://github.com/BilqeesShahid/bjbuildresume",
-    previewUrl: ""bjbuildresume.vercel.app",
+    previewUrl:"https://bjbuildresume.vercel.app",
   },
   {
     id:3,
@@ -30,7 +30,7 @@ const projectData = [
     image:"/countdown.jpg",
     tag:["All","Web"],
     gitUrl:"https://github.com/BilqeesShahid/30dayscodingchalleneg/tree/main/app",
-    previewUrl:"01bilqeescountdowntimer.vercel.app",
+    previewUrl:"https://01bilqeescountdowntimer.vercel.app",
   },
   {
     id:4,
@@ -39,7 +39,7 @@ const projectData = [
     image:"/mypro1.jpg",
     tag:["All","Web"],
     gitUrl:"https://github.com/BilqeesShahid/Q201assignment",
-    previewUrl:"q2my01assignment.vercel.app",
+    previewUrl:"https://q2my01assignment.vercel.app",
   },
   {
     id:5,
@@ -48,7 +48,7 @@ const projectData = [
     image:"/SharedScreenshot.jpg",
     tag:["All","Web"],
     gitUrl:"https://github.com/BilqeesShahid/Q2bilqeesfigmatemplate",
-    previewUrl:"q2bilqeesfigmatemplate.vercel.app",
+    previewUrl:"https://q2bilqeesfigmatemplate.vercel.app",
 
   }
 ]
