@@ -36,7 +36,7 @@ const EmailSection = () => {
     <section id="contact"className='grid md:grid-cols-2 my-12 py-24 px-8 md:px-24 gap-8 relative container pt-32'>
        
       {/* First Column (Text & Social Links) */}
-      <div className='z-10'>
+      <div>
         <h5  data-aos="zoom-in-up" className='text-xl lg:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 my-2'>Let's Connect</h5>
         <p  data-aos="zoom-in-up" className='text-myblue text-lg lg:text-xl mb-4 max-w-md'>
           I am currently looking for new opportunities, my inbox is always open.
