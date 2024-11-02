@@ -52,7 +52,7 @@ const EmailSection = () => {
           </div>
           <div>
       <div  data-aos="zoom-in-up" className='mt-3 text-myblue'>
-        <AiOutlineMail className="text-green-700" size={30}/>bilqeesshahis@gmail.com
+        <AiOutlineMail className="text-green-700" size={30}/>bilqeesshahid@gmail.com
       
       <div  data-aos="zoom-in-up" className='mt-3 text-myblue'>
         <BsTelephone className='text-green-700' size={30}/> (021) 000-0000
